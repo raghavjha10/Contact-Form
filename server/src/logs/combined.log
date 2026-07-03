@@ -1,0 +1,29 @@
+2026-07-03 14:14:38 [ERROR] MongoDB Connection Failed : querySrv ECONNREFUSED _mongodb._tcp.cluster0.aklpzei.mongodb.net
+2026-07-03 14:24:54 [ERROR] MongoDB Connection Failed : querySrv ECONNREFUSED _mongodb._tcp.cluster0.aklpzei.mongodb.net
+2026-07-03 14:30:46 [INFO] MongoDB Connected: ac-kldlsky-shard-00-00.aklpzei.mongodb.net
+2026-07-03 14:30:46 [INFO] Server running on http://localhost:8888
+2026-07-03 14:50:51 [INFO] MongoDB Connected : ac-kldlsky-shard-00-02.aklpzei.mongodb.net
+2026-07-03 14:50:52 [INFO] Server running on http://localhost:8888
+2026-07-03 14:54:06 [INFO] MongoDB Connected : ac-kldlsky-shard-00-02.aklpzei.mongodb.net
+2026-07-03 14:54:06 [INFO] Server running on http://localhost:8888
+2026-07-03 14:54:57 [INFO] MongoDB Connected : ac-kldlsky-shard-00-00.aklpzei.mongodb.net
+2026-07-03 14:54:57 [INFO] Server running on http://localhost:8888
+2026-07-03 14:55:39 [INFO] MongoDB Connected : ac-kldlsky-shard-00-01.aklpzei.mongodb.net
+2026-07-03 14:55:39 [INFO] Server running on http://localhost:8888
+2026-07-03 15:01:47 [INFO] MongoDB Connected : ac-kldlsky-shard-00-00.aklpzei.mongodb.net
+2026-07-03 15:01:47 [INFO] Server running on http://localhost:8888
+2026-07-03 15:09:30 [ERROR] MongoDB Connection Failed : querySrv ECONNREFUSED _mongodb._tcp.cluster0.aklpzei.mongodb.net
+2026-07-03 15:09:43 [ERROR] MongoDB Connection Failed : querySrv ECONNREFUSED _mongodb._tcp.cluster0.aklpzei.mongodb.net
+2026-07-03 15:11:09 [INFO] MongoDB Connected : ac-kldlsky-shard-00-00.aklpzei.mongodb.net
+2026-07-03 15:11:09 [INFO] Server running on http://localhost:8888
+2026-07-03 15:19:36 [INFO] MongoDB Connected : ac-kldlsky-shard-00-02.aklpzei.mongodb.net
+2026-07-03 15:19:36 [INFO] Server running on http://localhost:8888
+2026-07-03 15:19:50 [HTTP] ::1 - - [03/Jul/2026:09:49:50 +0000] "GET /api/admin/contacts HTTP/1.1" 200 36 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.8737"
+2026-07-03 15:20:09 [HTTP] ::1 - - [03/Jul/2026:09:50:09 +0000] "GET /api/admin/contacts HTTP/1.1" 200 36 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-03 15:20:09 [HTTP] ::1 - - [03/Jul/2026:09:50:09 +0000] "GET /api/admin/contacts HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-03 15:20:32 [INFO] New contact submitted by raghavjha0710@gmail.com
+2026-07-03 15:20:32 [HTTP] ::1 - - [03/Jul/2026:09:50:32 +0000] "POST /api/contact HTTP/1.1" 201 310 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-03 15:20:36 [HTTP] ::1 - - [03/Jul/2026:09:50:36 +0000] "GET /api/admin/contacts HTTP/1.1" 200 270 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-03 15:20:36 [HTTP] ::1 - - [03/Jul/2026:09:50:36 +0000] "GET /api/admin/contacts HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-03 15:20:56 [HTTP] ::1 - - [03/Jul/2026:09:50:56 +0000] "GET /api/admin/contacts HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-03 15:20:56 [HTTP] ::1 - - [03/Jul/2026:09:50:56 +0000] "GET /api/admin/contacts HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
